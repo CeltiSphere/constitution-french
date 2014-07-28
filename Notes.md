@@ -20,11 +20,8 @@ Ici, la définition choisie est celle de Paul Ricoeur.
 
 
 ## Les droit fondamentaux
-=======
 
 L'accès au logement, à l'eau et l'électricité courants, à la nourriture et l'eau potable, à la justice et, dans un moindre mesure, la culture et l'éducation sont relativement reconnus dans la plupart des pays occidentaux comme des droits fondamentaux.
-
-Ainsi que la santé.
 
 Les grandes nouveautés sont l'accès à un internet neutre, qui est un combat d'un grand nombre d'informaticiens ces dernières années, l'accès aux services rendus par l'État de manière simple, impliquant que l'État ne peut pas noyer ses citoyens dans les démarches administratives, à l'éducation et à la culture quelques soitent les ressources financières ce qui implique que l'État ne peut pas privatiser l'École et doit la financer selon les moyens nécessaires. Sur ce point, l'État devrait, dans la constitution déjà, abolir le droit d'auteur tel qu'il existe aujourd'hui en vertu de ce principe.
 
@@ -32,15 +29,12 @@ Le plus grosse avancée cependant, repose dans l'accès à un revenu quelque soi
 
 
 ## Les devoirs fondamentaux
-=======
+
+L'État a aussi un ensemble de devoirs vis-à-vis de son peuple. Certains découlent directement des droits du citoyen. Parmi ceux-ci l'éducation populaire ou éducation politique des jeunes adultes telle qu'elle a été imaginée par le Conseil National de la Résistence au sortir de la guerre devrait en être un des plus important. Sa mise en application reste cependant à définir.
 
 La question de la sanité de l'eau et de la nourriture est importante : une voie à explorer pourrait être la définition d'eau potable selon l'OMS : "une eau que l'on peut boire toute sa vie sans aucun danger pour la santé". C'est une définition encore vague, mais qui pose un premier cadre.
 
 La question environnementale est très importante, elle ne doit pas être négligée. Il faudrait une partie entière lui étant consacrée.
-
-## Les devoirs fondamentaux
-
-L'État a aussi un ensemble de devoirs vis-à-vis de son peuple. Certains découlent directement des droits du citoyen. Parmi ceux-ci l'éducation populaire ou éducation politique des jeunes adultes telle qu'elle a été imaginée par le Conseil National de la Résistence au sortir de la guerre devrait en être un des plus important. Sa mise en application reste cependant à définir.
 
 ## La structure du gourvernement
 
@@ -59,7 +53,7 @@ La méthode de désignation du gouvernement est à ce stade problématique et ou
 Ne pas fixer ni figer la structure gouvernementale ainsi. Trop flou et trop de possibilités. Plutôt invoquer une série d'entités interagissantes.
 
 ##################################################################
-# Protocole d'échanges et d'association entre communes/territoires
+## Protocole d'échanges et d'association entre communes/territoires
 *Notes RobertBiloute 27/07/2014*
 *Version "hiérarchique" (cf. organigramme des territoires) prenant en compte les relations d'inclusions géographiques, mais autorisant les associations entre
 différents niveau hiérarchiques (ex: association commune/commune, commune/canton, commune/région, etc...)*
