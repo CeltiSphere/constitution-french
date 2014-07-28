@@ -14,16 +14,10 @@ La constitution est divisée en un ensemble d'articles immuables et un ensemble 
 
 ## Le préambule
 
-Le préambule ne doit pas s'étendre en loghorrées patriotiques. => du coup quid des concepts de nation, d'état ? faut-il aussi redéfinir ça, voire zapper et constituer de nouvelles notions ?
+Le préambule ne doit pas s'étendre en loghorrées patriotiques. redéfinir ça, voire zapper et constituer de nouvelles notions ?
 Il doit être efficace, définir ce qu'est une Démocratie, son but et ses moyens d'action.
 Ici, la définition choisie est celle de Paul Ricoeur.
 
-Inscrire un principe de subsidiarité ?
-
-Politique = définition de l'équilibre droits et devoirs collectifs vs. droits et devoirs individuels: assez fondamental pour être mentionné dand les buts à atteindre ?
-
-Comment arbitrer également entre une constitution fluide (écrite sur github qd même..) et l'image classique et justifiée d'une constitution modifiable, mais qd même gravé dans le marbre (nécessité de stabilité)
-(Pistes de réflexion pour ça, une étude de la démocratie sauce debian: http://ses.telecom-paristech.fr/auray/AUray.pdf)
 
 ## Les droit fondamentaux
 =======
@@ -40,9 +34,6 @@ Le plus grosse avancée cependant, repose dans l'accès à un revenu quelque soi
 ## Les devoirs fondamentaux
 =======
 
-
-Là on entre forcément dans la répression ? Mais il y a un équilibre nécessaire à faire, ne serait-ce que par rapport aux possibilité physiques ("gestion" de l'environnement?)
-
 La question de la sanité de l'eau et de la nourriture est importante : une voie à explorer pourrait être la définition d'eau potable selon l'OMS : "une eau que l'on peut boire toute sa vie sans aucun danger pour la santé". C'est une définition encore vague, mais qui pose un premier cadre.
 
 La question environnementale est très importante, elle ne doit pas être négligée. Il faudrait une partie entière lui étant consacrée.
@@ -53,7 +44,7 @@ L'État a aussi un ensemble de devoirs vis-à-vis de son peuple. Certains décou
 
 ## La structure du gourvernement
 
-Éviter de déclarer une République … On invente peut-être une nouvelle forme de démocratie !
+Le nom à donner au gouvernement et à lÉtat est un problème. Il faut marquer une rupture avec les régimes précédents. Il ne faut donc pas parler de "République". "Nation Française" pourrait être adapté.
 
 L'idée est de reprendre la séparation des trois pouvoirs (exécutif, législatif et judiciaire) mais en les séparant complètement. Par exemple, la justice ne devrait pas être placé sous l'égide d'un ministre de la justice.  
 Un quatrième pouvoir pourrait leur être ajouté : le pouvoir économique qui est le pouvoir de décider de l'orientation économique du pays, de voter le budget de l'État, etc...  
