@@ -1,8 +1,8 @@
-# Constitution alternative de la République Française
+# Constitution alternative de la Nation Française
 
 ## But
 
-Ce projet propose de réécrire la constitution de la République Française pour la rendre conforme à l'objectif qu'elle s'est fixé au départ : instituer une Démocratie.
+Ce projet propose de réécrire la constitution de la Nation Française pour la rendre conforme à l'objectif qu'elle s'est fixé au départ : instituer une Démocratie.
 
 ## Motivations
 
