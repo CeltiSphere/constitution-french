@@ -91,10 +91,6 @@ Certains citoyens se sont rassemblés, à leur propre initiative sans conformit�
 
 * Un échelon inférieur B peut modifier la constitution d'un territoire d'échelon supérieur A par démocratie directe impliquant tous les territoires de l'échelon B inclus dans le territoire A.
 
-
-
-=======
-
 ## Le pouvoir militaire
 
 Celui-ci devrait être soumis au strict contrôle du citoyen. Toute intervention armée soumise à un référundum populaire, sauf concernant les intervention nécessitant une prise de décision rapide. Il faut tout de même définir précisémment les cas de prise de décision rapide.
