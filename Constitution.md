@@ -36,5 +36,5 @@ De plus, elle reconnait la possibilité à chaque être vivant, citoyen françai
 
 ### Article second --- Des symboles
 
-Le drapeau national est le drapeau tricolore.
-La devise du pays est : *Nul maître au peuple ; Il gouverne et ne se corromp pas"
+Le drapeau national est le drapeau tricolore.  
+La devise du pays est : *Nul maître au peuple ; Il gouverne et ne se corromp pas*
