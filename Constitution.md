@@ -33,3 +33,8 @@ La France est un État qui reconnait à chaque citoyen sans distinction les droi
  * l'accès aux outils d'expression,
 
 De plus, elle reconnait la possibilité à chaque être vivant, citoyen français ou pas, la possibilité d'être accueilli sur le territoire français et de s'insérer dans la communauté.
+
+### Article second --- Des symboles
+
+Le drapeau national est le drapeau tricolore.
+La devise du pays est : *Nul maître au peuple ; Il gouverne et ne se corromp pas"
