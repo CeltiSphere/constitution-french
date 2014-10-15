@@ -12,7 +12,7 @@ La France est un État qui se reconnait comme divisé, traversé par des contrad
 
 et ce, en vue d’arriver à un arbitrage de celles-ci.
 
-Cette constitution est constituée de deux parties : l'une est modifiable, l'autre ne peut l'être sans rendre tout l'ensemble caduque et donc, anéhantir la République. Ce préambule fixe cette règle et n'est donc pas modifiable par quelque procédure que ce soit.
+Cette constitution est constituée de deux parties : l'une est modifiable, l'autre ne peut l'être sans rendre tout l'ensemble caduque et donc, anéhantir la Nation. Ce préambule fixe cette règle et n'est donc pas modifiable par quelque procédure que ce soit.
 
 ## Articles immuables
 
