@@ -4,7 +4,7 @@ Certains citoyens se sont rassemblés, à leur propre initiative sans conformit�
 
 ### Préambule
 
-La France est un État qui se reconnait comme divisé, traversé par des contradictions d'intérêt et qui se fixe comme modalité d'associer à parts égales, chaque citoyen dans :
+La France est un État qui se reconnait comme divisé, traversé par des contradictions d'intérêt et qui se fixe comme modalité d'associer à parts égales, chaque citoyenne et chaque citoyen dans :
 
  1. l’expression de ces contradictions,
  2. l’analyse de ces contradictions,
